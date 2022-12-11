@@ -21,4 +21,4 @@ layout:
 paint:
   line-color: '#a00000'
   line-width: 5
-minzoom: 1
+minzoom: 10
