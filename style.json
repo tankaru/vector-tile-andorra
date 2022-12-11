@@ -593,7 +593,7 @@
         "line-color": "#a00000",
         "line-width": 5
       },
-      "minzoom": 10
+      "minzoom": 1
     },
     {
       "id": "waterway-river-intermittent",

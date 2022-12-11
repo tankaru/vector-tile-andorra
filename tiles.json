@@ -68,7 +68,7 @@
         "intermittent": "Number",
         "name:latin": "String"
       },
-      "minzoom": 1,
+      "minzoom": 8,
       "maxzoom": 14
     },
     {
