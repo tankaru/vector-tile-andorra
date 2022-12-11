@@ -592,15 +592,15 @@
       "paint": {
         "line-color": "#a00000",
         "line-width": {
-          "base": 1.3,
+          "base": 5,
           "stops": [
             [
               13,
-              0.5
+              2
             ],
             [
               20,
-              1
+              5
             ]
           ]
         }
