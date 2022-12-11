@@ -1175,6 +1175,7 @@
         },
         "visibility": "visible"
       },
+      "minzoom": 12,
       "paint": {
         "text-color": "#333",
         "text-halo-color": "rgba(255,255,255,0.8)",
