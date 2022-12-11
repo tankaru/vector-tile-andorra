@@ -592,11 +592,11 @@
       "paint": {
         "line-color": "#a00000",
         "line-width": {
-          "base": 12.2,
+          "base": 1.5,
           "stops": [
             [
-              10,
-              0.8
+              13,
+              5.5
             ],
             [
               20,
