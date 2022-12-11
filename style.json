@@ -1466,6 +1466,7 @@
         "text-transform": "uppercase",
         "visibility": "visible"
       },
+      "minzoom": 10,
       "paint": {
         "text-color": "#334",
         "text-halo-blur": 1,
