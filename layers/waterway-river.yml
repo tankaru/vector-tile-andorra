@@ -20,10 +20,4 @@ layout:
   visibility: visible
 paint:
   line-color: '#a00000'
-  line-width:
-    base: 1.5
-    stops:
-      - - 13
-        - 5.5
-      - - 20
-        - 6
+  line-width: 1.5
